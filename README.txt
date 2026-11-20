@@ -1,8 +1,6 @@
 COLLEGE CANTEEN ORDERING SYSTEM
 ================================
-Student: Divya H Shetty
-Reg No : 251090700116
-Class  : 1 MCA - Section C
+
 
 HOW TO RUN:
 1. Start XAMPP - ensure Apache and MySQL are running
